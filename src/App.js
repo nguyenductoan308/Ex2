@@ -9,7 +9,7 @@ App.propTypes = {
 function App(props) {
   return (
     <div className='card' >
-      <TodoList/>
+  
       <TodoList/>
       <TodoList/>
      
