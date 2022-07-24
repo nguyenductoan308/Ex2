@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* flex-direction: row; */
+  background: linear-gradient(120deg, #3ca7ee, #9b408f);  
+}
+.card{
+  padding: 32px 64px;
+  width: 1000px;
+}

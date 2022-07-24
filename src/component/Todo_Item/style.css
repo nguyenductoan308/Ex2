@@ -1,0 +1,39 @@
+
+.mb-4{
+    margin-bottom: 4px !important;
+  }
+  .mb-8{
+    margin-bottom: 8px !important;
+  }
+  .width22{
+    width: 22%;
+  }
+
+  .card__item{
+    width: 200px;
+    height: 210px;
+    border: 1px solid black;
+    padding: 16px 8px ;
+    border-radius: 10px;
+    background-color: white;
+  }
+  .card__item .text{
+    font-weight: 600;
+  }
+  .card__item .title{
+    border-top: 2px solid rgb(216, 59, 236);
+  }
+  .card__item .btn{
+    display: block;
+    margin: 6px auto;
+    padding: 4px 16px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: rgb(59, 104, 228);
+    color: white;
+  
+  }
+
+  
